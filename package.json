@@ -20,6 +20,8 @@
   "homepage": "https://github.com/drelocatelli/NodeJS_APIRest#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
-    "express": "^4.17.1"
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1"
   }
 }
